@@ -3,7 +3,7 @@ Cyber Incident Response Team (CIRT)
 Computer Security Incident Response Team (CSIRT)
 ... are the first responders or first line of defense responding to cybersecurity incidents. 
 
-According to NIST
+According to NIST  
 Incident: "a violation or imminent threat of violation of computer security policies, acceptable use policies, or standard security practices."
 
 The NIST Incident Response Process is:
@@ -13,7 +13,7 @@ The NIST Incident Response Process is:
 4) Post-Incident Activity
 [NIST Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
-According to SANS
+According to SANS  
 Incident: "an adverse event in an information system, and/or network, or the threat of the occurrence of such an event. Incident implies harm, or the intent to do harm."
 
 The SANS Incident Response Process is:
