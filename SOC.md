@@ -40,6 +40,7 @@ The suite of protocols is stateless
 2) Transport Layer: TCP and UDP
 3) Network Layer: IP and ICMP
 4) Physical Layer: Ethernet and ARP  
+
 TCP uses three-way handshake to establish a connection. Client sends syn packet to server, server sends syn/ack packet to client and then client sends ack packet back to server. 
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
