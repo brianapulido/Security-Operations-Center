@@ -1,6 +1,6 @@
-Security Operations Center (SOC) analysts
-Cyber Incident Response Team (CIRT)
-Computer Security Incident Response Team (CSIRT)
+Security Operations Center (SOC) analysts  
+Cyber Incident Response Team (CIRT)  
+Computer Security Incident Response Team (CSIRT)  
 ... are the first responders or first line of defense responding to cybersecurity incidents. 
 
 According to NIST  
