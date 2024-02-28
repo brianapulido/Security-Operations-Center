@@ -31,7 +31,22 @@ HTTP
 
 <ins>Mitigation Techniques</ins>  
 - Apply software updates as they become available. Automate the process.
-- Strong Authentication using Identity and Access Management (IAM) system which includes Identification, Authentication, Authorization, and Accounting
+- Identity and Access Management (IAM)
+    - Identification: an account or ID that uniquely represents a user or device.
+    - Authentication: proving someone is who they say they are.
+        - Something you know --> username and password or PIN
+        - Something you have --> smart card, key fob
+        - Something you are  --> fingerprint
+        - Multifactor authentication (MFA): use of more than one type of factor to authenticate a user.
+    - Authorization: giving users or devices the appropriate rights to access a resource.
+        - Principle of least privilege: give the user sufficient rights to perform their job function and that's it. Do regular account audits.
+        - Separation of duties: duties are divided among individuals  
+    - Accounting: tracking authorized usage of a resource, alerting if unauthorized use is detected or attempted
+  - Disaster Recovery Plan: procedures to follows to recover a system to working state following a disaster event. Identify tasks, resources, responsibilities.
+  - Actively manage hardware devices and software resources and ensure secure baseline configurations.
+  - Use SIEM, EDR, and SOAR technologies to actively manage the network to detect suspicious activity or intrusion and respond to it.
+  - Segregate networks using segmentation, VLANs, subnets, firewalls.
+  - Conduct risk assessment.
 
 <ins>Protocols</ins>  
 TCP/IP = Internet Protocol Suite
