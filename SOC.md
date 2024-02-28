@@ -29,6 +29,9 @@ Domain Name System (DNS): like a phonebook for the internet. DNS translates full
   Example is hostname www.github.com and its IP address 192.30.252.0. An IP address is given to each device on the internet. 
 HTTP
 
+<u>Mitigation Techniques</u>
+- Apply software updates as they become available. Automate the process.
+- Strong Authentication using Identity and Access Management (IAM) system which includes Identification, Authentication, Authorization, and Accounting
 
 <u>Protocols</u>
 TCP/IP = Internet Protocol Suite
